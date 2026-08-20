@@ -55,9 +55,14 @@ QA date: 20 August 2026
 - TMS update returned HTTP 200; post-write readback confirmed all seven URLs public and serving the intended current artifacts.
 - An idempotent semantic before/after digest matched (`638c2081...ffe0e7`), proving unrelated course data was preserved after excluding publication URLs, assessment-link state and volatile IDs/timestamps.
 
-## G. GitHub publication QA
+## G. GitHub publication QA — PASS
 
-- Pending public-boundary staging, secret scan, force-with-lease and remote-SHA readback.
+- Verified the actual default branch is `master`; pre-replacement remote SHA was `6f6578ce455c4761b1b57aebd7c11c15d98d18ac`.
+- Staged 52 public files only: 26 text and 26 binary artifacts.
+- Forbidden-path scan returned no assessment, answer-key, reference, QA-render, build-tooling, archive or environment paths.
+- Credential-signature scan returned no staged private keys, access tokens or environment assignments.
+- Replaced the stale remote with force-with-lease against the verified SHA. Replacement commit `9c6da906ba51929674ab3b597671ad434f1d9d07` matched remote `master` on readback.
+- Updated the repository description and topics for ISO 14064/WSQ courseware and enabled Discussions; GitHub Pages was intentionally not enabled for this content repository.
 
 ## Command substitutions
 
