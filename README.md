@@ -2,6 +2,8 @@
 
 WSQ courseware for **TGS-2025056357**, developed by Tertiary Infotech Academy Pte Ltd.
 
+[View course details and register for ISO 14064 Internal Auditor Training](https://www.tertiarycourses.com.sg/wsq-iso-14064-internal-auditor-training.html)
+
 This release turns ISO 14064 requirements and internal-audit practice into a connected two-day case study. Learners work as HarbourLight Electronics' internal audit team and examine the Lumina 400 product and organisational GHG evidence from criteria selection through audit close-out.
 
 ## Courseware
@@ -38,6 +40,3 @@ The PowerPoint is concept-led. Detailed procedures, scenarios, questions, requir
 ## Release controls
 
 The learner-facing repository excludes assessments, answer keys, source references, build tooling, QA renders and environment files. See `SOURCE-COVERAGE-v3.0.md` and `QA-REPORT-v3.0.md` for traceability and verification evidence.
-
-Course page: <https://www.tertiarycourses.com.sg/wsq-iso-14064-internal-auditor-training.html>
-
