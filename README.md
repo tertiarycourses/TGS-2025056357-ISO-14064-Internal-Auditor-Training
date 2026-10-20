@@ -4,6 +4,14 @@ WSQ courseware for **TGS-2025056357**, developed by Tertiary Infotech Academy Pt
 
 [View course details and register for ISO 14064 Internal Auditor Training](https://www.tertiarycourses.com.sg/wsq-iso-14064-internal-auditor-training.html)
 
+| Course detail | Information |
+|---|---|
+| Course code | `TGS-2025056357` |
+| Programme | WSQ |
+| Duration | 2 days · 16 training hours · 2 assessment hours |
+| Registration | [View course details and register](https://www.tertiarycourses.com.sg/wsq-iso-14064-internal-auditor-training.html) |
+| Funding | Up to 70% course-fee funding for eligible learners or employers. Eligibility and terms apply; funding is currently listed as valid through 30 June 2027. |
+
 This release turns ISO 14064 requirements and internal-audit practice into a connected two-day case study. Learners work as HarbourLight Electronics' internal audit team and examine the Lumina 400 product and organisational GHG evidence from criteria selection through audit close-out.
 
 ## Courseware
